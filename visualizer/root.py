@@ -334,5 +334,3 @@ class main(QMainWindow):
         self.dial_label4.move(
             330,250)
         self.dial_label4.adjustSize()
-def clickedBtn():
-    print("Clicked")
